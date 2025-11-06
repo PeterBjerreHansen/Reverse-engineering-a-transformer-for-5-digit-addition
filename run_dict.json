@@ -1,0 +1,1 @@
+{"summand_digits": 5, "reverse_digits": true, "zero_pad_digits": true, "thinking_tokens": 0, "low_num": 0, "high_num": 100000, "max_len": 32, "config": {"block_size": 32, "vocab_size": 16, "n_layer": 1, "n_head": 1, "n_embd": 64, "dropout": 0.0, "use_ln": false, "tie_embed": false}}
